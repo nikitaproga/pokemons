@@ -14,8 +14,8 @@
 
 Примеры работы бота:
 
-![alt text]((https://postimg.cc/phKM2b3c))
+![Пример1](PokemonsWork1)
 
-![alt text]((https://postimg.cc/K4r4Nd45))
+![Пример2](PokemonsWork2)
 
-![alt text](https://postimg.cc/5XGtyJkf)
+![Пример3](PokemonsWork3)
