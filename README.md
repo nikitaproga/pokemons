@@ -14,8 +14,8 @@
 
 Примеры работы бота:
 
-![Пример1](PokemonsWork1)
+![Пример1](PokemonsWork1.jpg)
 
-![Пример2](PokemonsWork2)
+![Пример2](PokemonsWork2.jpg)
 
-![Пример3](PokemonsWork3)
+![Пример3](PokemonsWork3.jpg)
