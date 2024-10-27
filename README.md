@@ -18,4 +18,4 @@
 
 ![Пример2](PokemonsWork2.jpg)
 
-![Пример3](PokemonsWork3.jpg)
+![Пример3](PokenonsWork3.jpg)
